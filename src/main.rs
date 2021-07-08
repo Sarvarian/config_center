@@ -7,6 +7,7 @@ fn main() {
 
     // check plugins
     // run gui
+
     // edit files
     if config.run {
         gui::lunch_gui();
